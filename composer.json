@@ -1,0 +1,19 @@
+{
+    "name": "siler-examples/issue-281",
+    "description": "Trying to reproduce the reported error on issue 281",
+    "type": "project",
+    "require": {
+        "leocavalcante/siler": "dev-master",
+        "cboden/ratchet": "^0.4.2",
+        "textalk/websocket": "^1.2",
+        "webonyx/graphql-php": "^0.13.8"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "leocavalcante",
+            "email": "lc@leocavalcante.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
