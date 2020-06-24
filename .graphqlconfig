@@ -1,5 +1,5 @@
 {
-  "schemaPath": "schema.graphql",
+  "schema": "http://localhost:8000",
   "extensions": {
     "endpoints": {
       "main": {
